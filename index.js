@@ -9,7 +9,7 @@ header.style.backgroundColor="purple";
  console.log(Class);
 
  //3) Change text content: Select an element and change its text content using textContent or innerHTML.
- var header_1=document.getElementById("H2");
+ var header_1=document.getElementById("H");
  console.log(header_1)
 
  header_1.textContent="H2 after changing the content using innerHtml";
